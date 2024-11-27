@@ -2,6 +2,6 @@
 
 - 🔭 I’m am a junior fullstack developer in Javascript and Node.js and a AI business consultant.
 - 🌱 I’m currently looking for a developer job.
-- 🔥 My dream is to work as a deveopler in AI-projects.
+- 🔥 My dream is to work as a developer in AI-projects.
 - 📫 How to reach me: elin.horn@hyperisland.se
 - ⚡ Fun fact: I'm a Cheerleader 🤸🏼‍♀️ 
